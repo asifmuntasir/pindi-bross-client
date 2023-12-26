@@ -12,6 +12,7 @@
 - Vite App
 - Tailwind CSS
 - DaisyUI
+- Swiper JS
 <!-- - React Helmet -->
 <!-- - React Quill -->
 <!-- - SCSS/SASS
